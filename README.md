@@ -10,10 +10,16 @@ The **Adult Income Dataset** contains demographic data about individuals, includ
 ---
 
 ## Objectives
-- Preprocess and clean the dataset from the UCI repository.
-- Build machine learning models to classify individuals based on their income.
-- Evaluate model performance using accuracy, precision, recall, and F1-score.
-- Explore feature importance and analyze the relationship between demographic factors and income.
+Developed a predictive model for determining whether an individual's income exceeds $50k/year based on demographic and employment variables.
+
+•	Implemented data exploration and preparation techniques using R and Python
+
+•	Conducted thorough data cleaning, feature engineering, and statistical analysis
+
+•	Built and evaluated multiple machine learning models for optimal predictive performance
+
+•	Presented the project's methodology, results, and insights in a detailed report.
+
 
 ---
 
