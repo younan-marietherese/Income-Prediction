@@ -1,5 +1,7 @@
 # Predicting Income from the UCI Adult Dataset
 
+This project is part of the AUB Artificial Intelligence and Data Science Professional Graduate Diploma and earned **Top 1** placement on the leaderboard.
+
 This project aims to predict whether an individual's income exceeds $50K/year based on demographic and work-related factors. Using the **Adult Income Dataset** from the UCI Machine Learning Repository, we build and evaluate various machine learning models to perform binary classification.
 
 ---
